@@ -1,3 +1,5 @@
+![Alt](/Grid.png "Grid Screenshot")
+
 ## HTML5 High Performance Grid 
 
 	*	GPU based, low CPU usage.
